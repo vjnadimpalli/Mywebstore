@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
 
 one:
-  product_id: ponds
-  cart_id: one
+  product: ponds
+  order: one
 
 two:
-  product_id: ponds
-  cart_id: one
+  product: ponds
+  cart: one
