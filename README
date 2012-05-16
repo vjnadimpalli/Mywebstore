@@ -1,7 +1,5 @@
 == Welcome to BodyBay ==
 
-I realized that there is no central repository from where people can buy products related to body care, which is huge market. 
-As part of the Web Architecture and Clouding Computing course I designed a Web Store using Ruby on Rails from where people can
-buy body care products of their favorite brand. The Store was also deployed on the Heroku platform.
+I realized that there is no central repository from where people can buy products related to body care, which is huge market. As part of the Web Architecture and Clouding Computing course I designed a Web Store using Ruby on Rails from where people can buy body care products of their favorite brand. The Store was also deployed on the Heroku platform.
 
 
